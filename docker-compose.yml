@@ -3,7 +3,7 @@ services:
   node:
     build: .
     ports:
-      - "${QR_PORT}:3000"
+      - "${QR_PORT}:3003"
     volumes:
       - /nodejs:/usr/src/app
     tty: true
