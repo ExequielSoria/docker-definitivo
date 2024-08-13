@@ -1,1 +1,0 @@
-console.log("Numero 1");
