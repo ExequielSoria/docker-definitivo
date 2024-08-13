@@ -2,3 +2,6 @@ node_modules
 .env
 *_sessions
 *.log
+baileys.log
+core.class.log
+queue.class.log
